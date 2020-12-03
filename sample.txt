@@ -1,1 +1,0 @@
-The a sample to see how my git setup is working!
